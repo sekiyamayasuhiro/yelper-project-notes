@@ -12,12 +12,12 @@ Divided by logged-out user and logged-in user
 
 # Both
 
--   The search bar is divided into 2 sections, left for name and categories, right for city, state, and/or zip. We should decide on how we want to implement this. Either we do it similar to the Yelp page or our own.
--   Yelp has 4 dropdown for categories under the search bar. We decided that we will have 2, one for "Restaurants" and one for "More."
+-   The search bar is divided into 2 sections, left for name and categories, right for city, state, and/or zip. We should decide on how we want to implement this. Either we do it similar to the Yelp page or our own. \*\*\* We decided on going with the Yelp style for 2 search bars added into one where the second one will take only into account city, state, and/or zip code.
+-   Yelp has 4 dropdown for categories under the search bar. We decided that we will have 2, one for "Restaurants" and one for "More." \*\*\* COME BACK TO IT.
 -   "Yelp for Business" dropdown should have the link to add and manage business. We are customizing this part to our project.
     ![Example 3](picture-nav3.png)
 -   "Yelp for Business" as well as "Write a Review" can be modified to redirect the User to log in if not logged in first.
--   "Profile" icon has a dropdown. We can change this drop down to include all the aspects of the "About Me" section of Yelp. We can discuss.
+-   "Profile" icon has a dropdown. We can change this drop down to include all the aspects of the "About Me" section of Yelp. We can discuss. \*\*\*We discussed that we will add business mangagement, review management, photo management to this global profile dropdown menu (along with the logout).
     ![Example 4](picture-nav4.png)
     ![Example 5](picture-nav5.png)
 

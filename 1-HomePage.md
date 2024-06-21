@@ -15,6 +15,7 @@ Divided into 4 main sections
 # Recent Activity section
 
     - Looks like each row is occupied by 3 cards (3 columns). They are sorted by review and/or picture posted in reverse chronological order.
+    - Recent Activity card: Who posted review/picture on top. Business details in the middle. Review/picture content on bottom.
     - (Optional) Button at the bottom of this section to see more “Show more activity” button.
 
 ![Example 2](picture-home2.png)
@@ -27,6 +28,6 @@ Divided into 4 main sections
 
 # Footer section
 
-    - We can decide later what to put in there.
+    - We can decide later what to put in there. NOTE: Show on every page, this should be in the Layout?
 
 ![Example 4](picture-home4.png)
